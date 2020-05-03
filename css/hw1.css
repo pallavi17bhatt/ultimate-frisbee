@@ -11,20 +11,12 @@ html {
 }
 
 
-/*img{
-  display: none;
-}
-*/
-
 h1{
 	text-align: center;
-	color:#ccffe6;
+	color:#ffffff;
 	text-transform:uppercase;
   margin:0px;
   font-size: 38px;
-
-
-
 
 }
 
@@ -35,20 +27,16 @@ h2{
 }
 
 section{
-	/*background-color:#e6f2ff;*/
   font-size:20px;
 }
 
-/*a{
-	background-color: #d1d1e0;
-	color:#47476b;
-}*/
+
 
 body{
   height: 100%;
   padding:20px;
   margin:5px;
-  border: 5px solid black;
+  
   }
 
 nav{
@@ -70,25 +58,17 @@ nav a {
 
 }
 
-
-
-
-
 .active{
   opacity:1;
   background-color:#ffffff;
   color:blue;
 }
 
-
-
 .left{
   width:17%;
   background-color:#777613;
   height: 670px;
-  /*position:fixed;*/
   padding: 0px;
-  /*border:5px solid black;*/
   display: inline-block;
   float: left;
 
@@ -99,11 +79,8 @@ nav a {
   width:160px;
   margin:22% auto;
 
-  border:1px solid black;
+  border:3px solid black;
 }
-
-
-
 
 .right{
   width:79%;
@@ -114,38 +91,3 @@ nav a {
 }
   
 
-
-/*header{
-  background-color: #B8B1B0;
- 
-}
-h1{
-  font-family: arial;
-  text-transform: uppercase;
-  text-align: center;
-  color:#ffffff;
-}
-nav{
-  color: #000000;
-  font-family: arial;
-}
-.left{
-  display: none;
-}
-h2{
-  background-color: #b8b1b0;
-  text-transform: uppercase;
-  color:#1D3FBF;
-  font-family: arial;
-}
-section{
-  background-color: #b8b1b0;
-  
-}
-.active{
-  color: #000000;
- 
-}
-a{
-  color: #000000;
-}*/
