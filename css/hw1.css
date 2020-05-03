@@ -13,7 +13,7 @@ html {
 
 h1{
 	text-align: center;
-	color:#ffffff;
+	color:#e0ebeb;
 	text-transform:uppercase;
   margin:0px;
   font-size: 38px;
@@ -25,12 +25,6 @@ h2{
 	color:#000000;
   font-size: 30px;
 }
-
-section{
-  font-size:20px;
-}
-
-
 
 body{
   height: 100%;
@@ -45,9 +39,9 @@ nav{
 
 nav a {
   font-size: 150%;
-  color:#47476b;
+  color:#5c8a8a;
   background-color: #d1d1e0;
-  opacity:0.5;
+  opacity:0.7;
   border-radius: 5px;
   width:10%;
   margin:1% 2% 2% 2%;
@@ -61,12 +55,12 @@ nav a {
 .active{
   opacity:1;
   background-color:#ffffff;
-  color:blue;
+  color:#5c8a8a;
 }
 
 .left{
-  width:17%;
-  background-color:#777613;
+  width:25%;
+  background-color:#f0f5f5;
   height: 670px;
   padding: 0px;
   display: inline-block;
@@ -76,17 +70,20 @@ nav a {
 
 .left img{
   display:block;
-  width:160px;
-  margin:22% auto;
+  width:300px;
+  height:180px;
+  margin:5% auto;
+  border:2px outset #5c8a8a;
 
-  border:3px solid black;
 }
 
 .right{
-  width:79%;
+  background-color:#e0ebeb;
+  width:71%;
   display: inline-block;
   float: right;
   padding:2%;
+  font-size:20px;
 
 }
   
