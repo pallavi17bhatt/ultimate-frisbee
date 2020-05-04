@@ -1,5 +1,5 @@
 header{
-	background-color: #f0f0f5;
+	background-color: #00f0f5;
   background-image: url("../images/flywheel.jpg");
   background-repeat: no-repeat;
   background-size: 100% 800px;
@@ -63,7 +63,7 @@ nav a {
 .left{
   width:25%;
   background-color:#f0f5f5;
-  height: 670px;
+  height: 780px;
   padding: 0px;
   display: inline-block;
   float: left;
